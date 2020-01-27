@@ -1,0 +1,13 @@
+C:\Users\ext303035\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+C:\Users\ext303035\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+C:\Users\ext303035\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+C:\Users\ext303035\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+C:\Users\ext303035\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csproj.CoreCompileInputs.cache
+C:\Users\ext303035\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+C:\Users\ext303035\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
+D:\Csharp codes 2\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
+D:\Csharp codes 2\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
+D:\Csharp codes 2\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
+D:\Csharp codes 2\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.csprojAssemblyReference.cache
+D:\Csharp codes 2\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
+D:\Csharp codes 2\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb
